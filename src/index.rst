@@ -1,6 +1,6 @@
-========================================
-TYPO3 JobRouter Extensions Documentation
-========================================
+==========================
+TYPO3 JobRouter Extensions
+==========================
 
 `JobRouter <https://www.jobrouter.com/>`_ is a scalable digitisation platform
 which links processes, data and documents.
