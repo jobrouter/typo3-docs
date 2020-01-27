@@ -10,8 +10,8 @@ JobRouter:
 
 - :doc:`TYPO3 JobRouter Connector <connector:introduction>`: a base extension
   to define connections to JobRouter installations
-- :doc:`TYPO3 JobRouter Data <data:introduction>`: Synchronise JobData tables
-  into TYPO3
+- :doc:`TYPO3 JobRouter Data <data:introduction>`: Connect JobData tables
+  with TYPO3
 - (coming soon) TYPO3 JobRouter Form: Form finishers to push data to JobRouter
   installations
 
