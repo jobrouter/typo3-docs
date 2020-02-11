@@ -187,5 +187,6 @@ epub_exclude_files = ['search.html']
 intersphinx_mapping = {
     'client': ('https://jobrouter-client.readthedocs.io/en/stable/', None),
     'connector': ('https://typo3-jobrouter.readthedocs.io/projects/connector/en/latest/', None),
-    'data': ('https://typo3-jobrouter.readthedocs.io/projects/data/en/latest/', None)
+    'data': ('https://typo3-jobrouter.readthedocs.io/projects/data/en/latest/', None),
+    'process': ('https://typo3-jobrouter.readthedocs.io/projects/process/en/latest/', None)
 }

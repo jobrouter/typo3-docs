@@ -8,12 +8,12 @@ which links processes, data and documents.
 There are various TYPO3 extensions available which connect the CMS with
 JobRouter:
 
-- :doc:`TYPO3 JobRouter Connector <connector:introduction>`: a base extension
-  to define connections to JobRouter installations
+- :doc:`TYPO3 JobRouter Connector <connector:introduction>`: Base extension
+  to configure connections to JobRouter installations
 - :doc:`TYPO3 JobRouter Data <data:introduction>`: Connect JobData tables
   with TYPO3
-- (coming soon) TYPO3 JobRouter Form: Form finishers to push data to JobRouter
-  installations
+- :doc:`TYPO3 JobRouter Process <process:introduction>`: Connect JobRouter
+  processes with TYPO3
 
 They rely on the :doc:`JobRouter Client <client:introduction>` library.
 
