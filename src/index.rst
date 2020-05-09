@@ -14,6 +14,8 @@ JobRouter:
   with TYPO3
 - :doc:`TYPO3 JobRouter Process <process:introduction>`: Connect JobRouter
   processes with TYPO3
+- :doc:`TYPO3 JobRouter RSS Widgets <rss-widgets:introduction>`: Dashboard
+  widgets displaying RSS feeds from the JobRouter website
 
 They rely on the :doc:`JobRouter Client <client:introduction>` library.
 
