@@ -2,20 +2,22 @@
 TYPO3 JobRouter Extensions
 ==========================
 
-`JobRouter <https://www.jobrouter.com/>`_ is a scalable digitisation platform
+`JobRouter® <https://www.jobrouter.com/>`_ is a scalable digitisation platform
 which links processes, data and documents.
 
 There are various TYPO3 extensions available which connect the CMS with
-JobRouter:
+JobRouter®:
 
-- :doc:`TYPO3 JobRouter Connector <connector:introduction>`: Base extension
-  to configure connections to JobRouter installations
+- :doc:`TYPO3 JobRouter Connector <connector:introduction>`: Extension to
+  configure connections to JobRouter® installations
+- :doc:`TYPO3 JobRouter Base <base:introduction>`: Base extension for common
+  functionality in the other TYPO3 JobRouter extensions
 - :doc:`TYPO3 JobRouter Data <data:introduction>`: Connect JobData tables
   with TYPO3
-- :doc:`TYPO3 JobRouter Process <process:introduction>`: Connect JobRouter
+- :doc:`TYPO3 JobRouter Process <process:introduction>`: Connect JobRouter®
   processes with TYPO3
 - :doc:`TYPO3 JobRouter RSS Widgets <rss-widgets:introduction>`: Dashboard
-  widgets displaying RSS feeds from the JobRouter website
+  widgets displaying RSS feeds from the JobRouter® website
 
 They rely on the :doc:`JobRouter Client <client:introduction>` library.
 
