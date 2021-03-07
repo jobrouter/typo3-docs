@@ -21,7 +21,7 @@ import sphinx_typo3_theme
 # -- Project information -----------------------------------------------------
 
 project = u'TYPO3 JobRouter Extensions'
-copyright = u'2020, Chris Müller'
+copyright = u'2020-2021, Chris Müller'
 author = u'Chris Müller'
 
 # The short X.Y version
@@ -183,12 +183,11 @@ epub_exclude_files = ['search.html']
 
 # -- Options for intersphinx extension ---------------------------------------
 
-# Example configuration for intersphinx: refer to the Python standard library.
 intersphinx_mapping = {
-    'base': ('https://typo3-jobrouter.readthedocs.io/projects/base/en/latest/', None),
+    'base': ('https://typo3-jobrouter.readthedocs.io/projects/base/en/stable/', None),
     'client': ('https://jobrouter-client.readthedocs.io/en/stable/', None),
-    'connector': ('https://typo3-jobrouter.readthedocs.io/projects/connector/en/latest/', None),
-    'data': ('https://typo3-jobrouter.readthedocs.io/projects/data/en/latest/', None),
-    'process': ('https://typo3-jobrouter.readthedocs.io/projects/process/en/latest/', None),
-    'rss-widgets': ('https://typo3-jobrouter.readthedocs.io/projects/rss-widgets/en/latest/', None)
+    'connector': ('https://typo3-jobrouter.readthedocs.io/projects/connector/en/stable/', None),
+    'data': ('https://typo3-jobrouter.readthedocs.io/projects/data/en/stable/', None),
+    'process': ('https://typo3-jobrouter.readthedocs.io/projects/process/en/stable/', None),
+    'rss-widgets': ('https://typo3-jobrouter.readthedocs.io/projects/rss-widgets/en/stable/', None)
 }
