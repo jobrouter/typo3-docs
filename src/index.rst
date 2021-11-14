@@ -2,7 +2,7 @@
 TYPO3 JobRouter Extensions
 ==========================
 
-`JobRouter® <https://www.jobrouter.com/>`_ is a scalable digitisation platform
+`JobRouter® <https://www.jobrouter.com/>`_ is a scalable digitalisation platform
 which links processes, data and documents.
 
 There are various TYPO3 extensions available which connect the CMS with
